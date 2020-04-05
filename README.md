@@ -46,9 +46,9 @@ Blank Boilerplate React Native
 
 ```sh
 
-$ git clone https://github.com/HarishJangra/react-native-easy-starter.git
+$ git clone https://github.com/maateusx/react-native-boilerplate.git
 
-$ cd react-native-easy-starter
+$ cd react-native-boilerplate
 
 $ yarn
 
