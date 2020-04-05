@@ -25,18 +25,11 @@ Blank Boilerplate React Native
 
 ## Ready to use templates
 
-- Loading /Login / Main app screens
-- extended Material Bottom Tabs Navigator (customizable) and Drawer Navigator using react-navigation
-- App Intro screens
-- Locale context , theme context
+- Loading
 - Api ready service
-- oAuth ready interceptor
 - material design components using [react-native-paper](https://github.com/callstack/react-native-paper)
-- react-native-modal
 - easy-peasy models
 - `useStorage()` for async storage
-- `useNetInfo()` for network info
-- `useTranslation()` for i18n
 - `useTheme()` for using themes
 - ... much more
 
